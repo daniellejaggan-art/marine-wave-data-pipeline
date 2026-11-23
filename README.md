@@ -1,7 +1,7 @@
 # Marine Wave Data Pipeline & Analysis
 
 ## Project Overview
-This project uses the Open-Meteo Marine API to retrieve hourly wave-height data and analyze marine conditions using Python, PostgreSQL, SQL, and Tableau Public.
+This project uses the Open Meteo Marine API to retrieve hourly wave height data and analyze marine conditions using Python, PostgreSQL, SQL, and Tableau Public.
 
 The goal is to demonstrate how API data can be extracted, stored, transformed, analyzed, and presented through an interactive dashboard.
 
