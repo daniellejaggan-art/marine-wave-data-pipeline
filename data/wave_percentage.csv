@@ -1,0 +1,4 @@
+"wave_category","total_observations","percentage","average_wave_height","minimum_wave_height","maximum_wave_height"
+"High",53,31.55,0.405,0.32,0.68
+"Moderate",68,40.48,0.208,0.10,0.30
+"Low",47,27.98,0.046,0.02,0.08
