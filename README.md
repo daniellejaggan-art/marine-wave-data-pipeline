@@ -1,4 +1,3 @@
-# marine-wave-data-pipeline
 # Marine Wave Data Pipeline & Analysis
 
 ## Project Overview
